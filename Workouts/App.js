@@ -25,9 +25,11 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    marginTop: Dimensions.get('window').height / 20,
+    marginTop: Dimensions.get('window').height / 15,
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
   }
 });
+
+
